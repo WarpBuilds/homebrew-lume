@@ -1,8 +1,8 @@
 class Lume < Formula
   desc "CLI and local API server to run macOS and Linux VMs on Apple Silicon"
   homepage "https://github.com/trycua"
-  url "https://github.com/trycua/computer/releases/download/v0.1.11/lume.tar.gz"
-  sha256 "92f6c172207cb162f6907c5940d3f92369537214970885e68bbc6e1ba13684ad"
+  url "https://github.com/trycua/computer/releases/download/lume-v0.1.13/lume.tar.gz"
+  sha256 "0a3ee2683fc741afc86fc48d9e1013f88b50cf460dc0e045357009aa14875c11"
   license "MIT"
 
   depends_on :macos
